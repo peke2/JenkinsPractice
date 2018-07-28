@@ -1,3 +1,3 @@
 <?php
 
-echo 'Good morning';
+echo 'Good Bye!';
